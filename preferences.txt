@@ -1,0 +1,5 @@
+Film: Titanic
+TVseries: Friends
+Food: Pizza
+YearSeason: Summer
+Country: Thailand

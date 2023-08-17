@@ -1,0 +1,10 @@
+Types of Test Documentation:
+1) Check List;
+2) Tast Case;
+3) Bug Report;
+4) Use Case.
+
+Black Box Test:
+1) Функциональное тестирование;
+2) Нефункциональное тестирование;
+3) Регрессионное тестирование.
