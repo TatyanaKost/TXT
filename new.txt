@@ -1,0 +1,4 @@
+Name: Kostykevich Tatyana Sergeevna
+Age: 24
+Pets: 0
+Salary: 5000
